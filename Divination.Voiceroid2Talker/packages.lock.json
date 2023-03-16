@@ -4,15 +4,15 @@
     "net6.0-windows7.0": {
       "Dalamud.Divination.Common": {
         "type": "Direct",
-        "requested": "[0.1.0-beta.184, )",
-        "resolved": "0.1.0-beta.184",
-        "contentHash": "HS366ETrqBhXbrdgcvfXrqZhZ7QQf1uC4jfBWfKrAzrkl30LA7LiNipQVI462WXZz2jM2vi9OASQUicklMlNPg=="
+        "requested": "[0.1.0-beta.217, )",
+        "resolved": "0.1.0-beta.217",
+        "contentHash": "XmntQRAepbnJv0iTZOqRcq7DbFYaF6XxhlsxDaWtQbY17oDGhVvgCYDwcqMVGqybiWCSaVLNXTBExj+dNwv+fg=="
       },
       "DalamudPackager": {
         "type": "Direct",
         "requested": "[2.*, )",
-        "resolved": "2.1.8",
-        "contentHash": "YqagNXs9InxmqkXzq7kLveImxnodkBEicAhydMXVp7dFjC7xb76U6zGgAax4/BWIWfZeWzr5DJyQSev31kj81A=="
+        "resolved": "2.1.11",
+        "contentHash": "9qlAWoRRTiL/geAvuwR/g6Bcbrd/bJJgVnB/RurBiyKs6srsP0bvpoo8IK+Eg8EA6jWeM6/YJWs66w4FIAzqPw=="
       },
       "GitVersion.MsBuild": {
         "type": "Direct",
